@@ -21,7 +21,7 @@ To run the project locally, follow these steps:
    ```bash
    cd ESMT_PROJECT
 
-3. **Install MATLAB** and ensure that **Deep Learning Toolbox** and **Audio Toolbox** are available
+3. **Install MATLAB** and ensure that **Deep Learning Toolbox** and **Audio Toolbox** are available.
 
 ## Usage
 
